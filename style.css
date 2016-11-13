@@ -1,0 +1,32 @@
+body{
+	padding-top:40px;
+	padding-bottom:60px;
+
+}
+#myCarousel{
+	height:500px;
+}
+.item{
+	height:500px;
+}
+img{
+	width:100%;
+}
+#container {
+padding-top:30px;
+text-align: center;
+}
+#distant{
+	margin-left: 100px;
+}
+#format{
+	color:gray;
+	font-size: 12px;
+	float:left;
+}
+#back{
+	float:right;
+}
+#navtwo{
+	margin-top:50px;
+}
